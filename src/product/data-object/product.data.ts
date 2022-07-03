@@ -1,5 +1,5 @@
 export class ProductData {
-  name?: string;
+  name_product?: string;
   description?: string;
   price?: number;
 }
